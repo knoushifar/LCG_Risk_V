@@ -34,7 +34,6 @@ LCG_Risk_V/
 ├── main.py
 ├── lcg.py
 ├── README.md
-├── LICENSE
 └── .gitignore
 ```
 
