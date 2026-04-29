@@ -93,7 +93,3 @@ Possible improvements include:
 * Adding unit tests with `pytest`
 
 ---
-
-## License
-
-This project is licensed under the terms included in the `LICENSE` file.
