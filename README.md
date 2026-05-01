@@ -23,6 +23,7 @@ Where:
 * Example usage through `main.py`
 * Basic input validation
 * Simple and beginner-friendly Python structure
+* Fully implemented in RISC-V assembly through 'LCG.s'
 * Suitable for learning pseudo-random number generation
 
 ---
@@ -34,6 +35,7 @@ LCG_Risk_V/
 ├── main.py
 ├── lcg.py
 ├── README.md
+├──LCG.s
 └── .gitignore
 ```
 
@@ -75,6 +77,7 @@ Linear Congruential Generator Output:
 This project demonstrates understanding of:
 
 * Python generators
+* Hands-on low-level programming
 * Mathematical recurrence relations
 * Pseudo-random number generation
 * Clean code organization
