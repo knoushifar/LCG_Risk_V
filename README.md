@@ -23,7 +23,7 @@ Where:
 * Example usage through `main.py`
 * Basic input validation
 * Simple and beginner-friendly Python structure
-* Fully implemented in RISC-V assembly through 'LCG.s'
+* Fully implemented in RISC-V assembly through `LCG.s`
 * Suitable for learning pseudo-random number generation
 
 ---
